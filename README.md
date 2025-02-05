@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valkwtf
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on vertomara
-- 📫 How to reach me: discord-valk.wtf
+- 📫 How to reach me: you dont
 - 😄 Pronouns: He/him
 
 <!---
