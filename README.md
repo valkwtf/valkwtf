@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valkwtf
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently working on mysterium.lol
 - 💞️ I’m looking to collaborate on vertomara
-- 📫 How to reach me: you dont
+- 📫 How to reach me: @valk.cc on discord
 - 😄 Pronouns: He/him
 
 <!---
