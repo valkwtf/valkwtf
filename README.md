@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @valkwtf
 - 🌱 I’m currently working on mysterium.lol
-- 💞️ I’m looking to collaborate on vertomara
+- 💞️ I’m looking to collaborate on real
 - 📫 How to reach me: you dont
-- 😄 Pronouns: He/him
+- 😄 Pronouns: she/her
 
 <!---
 valkwtf/valkwtf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
