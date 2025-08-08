@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valkwtf
-- 🌱 I’m currently working on mysterium.lol
-- 💞️ I’m looking to collaborate on real
+- 🌱 I’m currently working on Logged
+- 💞️ I’m looking to collaborate on genuine
 - 📫 How to reach me: you dont
 - 😄 Pronouns: she/her
 
