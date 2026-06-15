@@ -35,7 +35,7 @@
 ### ⚡ My Coding Philosophy
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Good+artists+copy...;Great+artists+use+F12;Why+write+when+you+can+rip%3F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Good+artists+copy...;Great+artists+use+F12;Why+write+when+you+can+skid%3F" alt="Typing SVG" />
 </div>
 <br>
 <div align="center">
