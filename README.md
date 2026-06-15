@@ -24,14 +24,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 📊 Skid Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valkwtf&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
 ### 🟩 Stolen Commits 
 
 <div align="center">
@@ -40,6 +32,18 @@
 
 ---
 
+### ⚡ My Coding Philosophy
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=F7768E&style=flat-square&label=VICTIMS+LOGGED" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Good+artists+copy...;Great+artists+use+F12;Why+write+when+you+can+skid%3F" alt="Typing SVG" />
+</div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=valkwtf&color=F7768E&style=flat-square&label=VICTIMS+LOGGED" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=valkwtfE&color=F7768E&style=flat-square&label=VICTIMS+LOGGED" alt="Profile Views" />
 </div>
