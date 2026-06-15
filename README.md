@@ -43,7 +43,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=valkwtfE&color=F7768E&style=flat-square&label=VICTIMS+LOGGED" alt="Profile Views" />
-</div>
