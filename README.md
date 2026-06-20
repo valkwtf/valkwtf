@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hi there, I'm Valk</h1>
-  <p>Professional Skid | Inspect Element Master | F12 Fucker</p>
 </div>
 
 ---
